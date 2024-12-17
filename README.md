@@ -19,8 +19,8 @@ I am a passionate software developer with experience in the BackEnd area mainly.
 ## 🎓 Certifications
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="./images/python-essentials-1.1.png" alt="Imagen 1" width="300" style="margin-right: 20px; border-radius: 10px;">
-  <img src="./images/python-essentials-2.png" alt="Imagen 2" width="300" style="border-radius: 10px;">
+  <img src="./images/python-essentials-1.1.png" alt="Imagen 1" width="200" style="margin-right: 20px; border-radius: 10px;">
+  <img src="./images/python-essentials-2.png" alt="Imagen 2" width="200" style="border-radius: 10px;">
 </div>
 
 
