@@ -17,6 +17,33 @@ I am a passionate software developer with experience in the BackEnd area mainly.
 <br>
 
 
+#⚒️ Languages
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,java,python" />
+  </a>
+</p>
+
+#⚡ FrameWorks
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=django,react,nextjs,svelte" />
+  </a>
+</p>
+
+#⚡ Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  </a>
+</p>
+
+
+
+<br>
+
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kiaX45&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kiaX45&theme=transparent&hide_border=false)<br/>
