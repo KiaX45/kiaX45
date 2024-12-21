@@ -38,7 +38,22 @@ I am a passionate software developer with experience in the BackEnd area mainly.
   </a>
 </p>
 
+# 🖥️ Projects
 
+Here are some of the projects I've been working on:
+
+### 🛒 [E-commerce Store](https://appleudenar-1.onrender.com/)
+Link: https://appleudenar-1.onrender.com/
+Repository: https://github.com/KiaX45/appleUdenar
+
+An online store built with Django, featuring:
+- Dynamic price updates based on currency selection.
+- Automatic email notifications for purchases.
+- A sleek dark mode toggle.
+- Email authentication with google
+- Paypal payments (only for sandbox accounts)
+
+<img src="./images/Apple.png" alt="Imagen 2" width="600" style="border-radius: 10px;">
 
 <br>
 
