@@ -45,7 +45,8 @@ I am a passionate software developer with experience in the BackEnd area mainly.
 Here are some of the projects I've been working on:
 
 ### 🛒 [E-commerce Store](https://appleudenar-1.onrender.com/)
-Link: https://appleudenar-1.onrender.com/
+Link: https://appleudenar-1.onrender.com/ (For a better experience it is recommended to use Google Chrome)
+
 Repository: https://github.com/KiaX45/appleUdenar
 
 An online store built with Django, featuring:
