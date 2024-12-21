@@ -110,6 +110,7 @@ A fun word guessing game that allows users to:
 <img src="./images/Completo.png" alt="Imagen 2" width="400" style="border-radius: 10px;">
 <img src="./images/Base.png" alt="Imagen 2" width="400" style="border-radius: 10px;">
 <img src="./images/Spring.png" alt="Imagen 2" width="400" style="border-radius: 10px;">
+<img src="./images/React.png" alt="Imagen 2" width="400" style="border-radius: 10px;">
 
 
 
