@@ -55,6 +55,33 @@ An online store built with Django, featuring:
 
 <img src="./images/Apple.png" alt="Imagen 2" width="600" style="border-radius: 10px;">
 
+
+### 🥘 [Recipe Ingredients App](https://cheffai.netlify.app/)
+
+Link: https://cheffai.netlify.app/
+Repository: https://github.com/KiaX45/Chef
+
+A React application that allows users to:
+- Add your own ingredients to a list.
+- Request a recipe with the ingredients listed.
+
+<img src="./images/chefClaude.png" alt="Imagen 2" width="600" style="border-radius: 10px;">
+
+### 🎮 [Assembly end Game](https://legendary-lollipop-5f1446.netlify.app/)
+
+Link : https://legendary-lollipop-5f1446.netlify.app/
+Repository : https://github.com/KiaX45/Assembly
+
+A fun word guessing game that allows users to:
+- Click on the buttons to try to guess the secret word.
+- Get different words from an api with thousands of options
+- A simple interface full of colors.
+- Get immediate feedback based on the options chosen
+
+<img src="./images/Assembly.png" alt="Imagen 2" width="600" style="border-radius: 10px;">
+
+
+
 <br>
 
 
