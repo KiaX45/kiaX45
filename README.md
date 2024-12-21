@@ -10,9 +10,11 @@
 
 I am a passionate software developer with experience in the BackEnd area mainly. I love creating innovative solutions and learning new technologies.
 
-- 🔭 I'm currently working on an app that lists ingredients for a new recipe
+- 🔭 I'm currently working on my personal portafolio
 - 🌱 I'm learning Go and improving my React skills
 - 👯 I'm looking to collaborate on internship projects
+- 🎯 My goal is to become a Full Stack Developer.
+- ❤️ I love sharing knowledge and collaborating with other developers.
 
 <br>
 
