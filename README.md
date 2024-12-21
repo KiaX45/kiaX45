@@ -17,5 +17,18 @@ I am a passionate software developer with experience in the BackEnd area mainly.
 <br>
 
 
+## 🎓 Certificaciones
+
+<div>
+<img src="./images/python-essentials-1.1.png" alt="Descripción de la imagen" width="300" style="margin-right: 20px;">
+<img src="./images/python-essentials-2.png" alt="Descripción de la imagen" width="300"> 
+</div>
+
+## 🛠️ Oracle Next Education
+
+
+
+
+
 
 
