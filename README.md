@@ -44,6 +44,19 @@ I am a passionate software developer with experience in the BackEnd area mainly.
 
 Here are some of the projects I've been working on:
 
+### 💼 [Portfolio](https://glittery-chebakia-f08b4a.netlify.app/)
+Link: https://glittery-chebakia-f08b4a.netlify.app/
+
+Repository: https://github.com/KiaX45/Portafolio
+
+🛠️ About This Project
+This is my personal portfolio, where you can:
+
+Learn more about me and my skills.
+Explore the projects I’ve been working on, including detailed descriptions and live demos.
+
+<img src="./images/Apple.png" alt="Imagen 2" width="600" style="border-radius: 10px;">
+
 ### 🛒 [E-commerce Store](https://appleudenar-1.onrender.com/)
 Link: https://appleudenar-1.onrender.com/ (For a better experience it is recommended to use Google Chrome)
 
